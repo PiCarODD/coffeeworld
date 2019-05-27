@@ -1,0 +1,27 @@
+/*
+* @Author: root
+* @Date:   2019-05-20 15:30:22
+* @Last Modified by:   root
+* @Last Modified time: 2019-05-21 13:24:46
+*/
+.sidebarcontent{
+	margin-bottom: 10px;
+	min-height: 150px;
+	background-color: silver;
+	text-align: center;
+	font-size: large;
+}
+.maincontent{
+	margin-bottom: 10px;
+	min-height: 300px;
+	background-color: silver;
+	text-align: center;
+	font-size: large;
+}
+.customdiv{
+	margin: 10px;
+	min-height: 50px;
+	background-color: silver;
+	text-align: center;
+	font-size: large;
+}
